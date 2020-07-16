@@ -1,4 +1,4 @@
-# vdwp2020 - Babak Jahangiri
+# vdwp1929 - Babak Jahangiri
 Visual Design and Web Development Assignment
 
-## This is a Web reoport for the Visual Design assignmnet for Birkbeck University of London
+## This is a Web reoport for the Visual Design assignmnet (2019-2020) for Birkbeck University of London
