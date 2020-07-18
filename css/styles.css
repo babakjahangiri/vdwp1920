@@ -127,6 +127,11 @@ h5 {
   height: auto;
 }
 
+.img-xs {
+  width: 100px;
+  height: auto;
+}
+
 footer {
   display: flex;
   background-color: #52151c;
@@ -138,8 +143,10 @@ footer {
 
 .section-flex {
   display: flex;
+  width: 100%;
   flex-direction: row;
   justify-content: space-around;
+  align-items: center;
 }
 
 .section-flex div {
